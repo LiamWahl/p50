@@ -1,0 +1,25 @@
+h1{
+    color: rgb(228, 134, 26);
+  }
+  *{
+    border:dotted;
+  }
+
+.header{
+    background-color :azure;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly
+}
+
+.footer{
+
+  background-color: #808080;
+  display: flex;
+  justify-content: flex-end;
+}
